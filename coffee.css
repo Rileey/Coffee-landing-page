@@ -1,0 +1,17 @@
+body {
+  background: url(coffee.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.text-1 {
+  color: white;
+  margin-top: 25%;
+  text-align: center;
+  font-size: 75px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.coffee-2 {
+  width: 200px;
+  height: 150px;
+}
